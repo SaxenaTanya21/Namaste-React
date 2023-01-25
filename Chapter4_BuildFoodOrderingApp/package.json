@@ -1,0 +1,31 @@
+{
+  "name": "namastereact_foodapp",
+  "version": "1.0.0",
+  "description": "Food Ordering App",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaxenaTanya21/Namaste-React.git"
+  },
+  "author": "Tanya Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaxenaTanya21/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/SaxenaTanya21/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 10 chrome versions"
+  ]
+}
